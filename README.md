@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hsb2891! I'm currently seeking full-time Software Development opportunities starting in August 2021.
+- 👋 Hi, I’m @hsb2891!
 
 - 👀 I’m interested in helping society by contributing valuable code and services (please pardon the cliché here).
 
